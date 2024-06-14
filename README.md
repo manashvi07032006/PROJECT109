@@ -1,1 +1,3 @@
-# PRO-C109-Student-Boilerplate
+# PROJECT 109
+
+Python code to take screenshots using hand gestures.
